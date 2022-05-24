@@ -1,2 +1,2 @@
 # Prototipo-navegavel-Chuva
-Desafio de Protótipo Navegavel 
+Este repositório tem como intuito desenvolver o desafio de protótipo Navegavel da empresa Chuva.Inc
